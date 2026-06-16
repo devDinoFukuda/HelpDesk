@@ -103,13 +103,16 @@ Categoria ──< Chamado ──< HistoricoStatus
 ![Fluxo Abrir Chamado](img/fluxo-abrir-chamado.png)
 
 ### Logic
-![Logic](img/fluxo-abrir-chamado.png)
+![Logic](img/logic.png)
+
+### Data
+![Logic](img/data.png)
 
 ### Fluxo OnBeforeRequest
 ![Fluxo OnBeforeRequest](img/fluxo-on-before-request.png)
 
-### Fluxo Fluxo Sugerir Prioridade com IA
-![Fluxo Fluxo Sugerir Prioridade com IA](img/fluxo-sugerir-prioridade-ia.png)
+### Fluxo Sugerir Prioridade com IA
+![Fluxo Sugerir Prioridade com IA](img/fluxo-sugerir-prioridade-ia.png)
 
 ---
 

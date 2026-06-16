@@ -1,0 +1,15 @@
+{
+  "contents": [
+    {
+      "parts": [
+        {
+          "text": "Analise o chamado de suporte abaixo e retorne APENAS uma palavra indicando a prioridade: Baixa, Média, Alta ou Crítica.\n\nTítulo: Servidor fora do ar\nDescrição: Produção indisponível há 2 horas, todos os usuários afetados"
+        }
+      ]
+    }
+  ],
+  "generationConfig": {
+    "maxOutputTokens": 10,
+    "temperature": 0.1
+  }
+}
